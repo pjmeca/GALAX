@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GALAX" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Videojuego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Videojuego" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="-lwinmm" />
+		</Linker>
+		<Unit filename="Astro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Astro.h" />
+		<Unit filename="Colision.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Colision.h" />
+		<Unit filename="Disparo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Disparo.h" />
+		<Unit filename="Disparos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Disparos.h" />
+		<Unit filename="Enemigo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Enemigo.h" />
+		<Unit filename="Flota.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Flota.h" />
+		<Unit filename="Galaxia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Galaxia.h" />
+		<Unit filename="Pantalla.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pantalla.h" />
+		<Unit filename="Personaje.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Personaje.h" />
+		<Unit filename="galax.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="galax.h" />
+		<Unit filename="icono.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

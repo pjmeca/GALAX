@@ -1,0 +1,274 @@
+# depslib dependency file v1.0
+1584908178 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\astro.c
+	<stdlib.h>
+	"Astro.h"
+
+1584368207 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\astro.h
+	"Pantalla.h"
+
+1580842612 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\pantalla.h
+	"SDL2/SDL.h"
+
+1589196818 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\colision.c
+	<math.h>
+	"Colision.h"
+
+1589137970 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\colision.h
+
+1586030928 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\disparo.c
+	<stdlib.h>
+	"Disparo.h"
+
+1586030423 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\disparo.h
+	"Pantalla.h"
+
+1589138054 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\disparos.c
+	<stdlib.h>
+	"Disparos.h"
+	"Colision.h"
+
+1589137389 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\disparos.h
+	"Disparo.h"
+	"Flota.h"
+
+1587156273 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\flota.h
+	"Enemigo.h"
+
+1584362441 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\enemigo.h
+	"Pantalla.h"
+
+1584364406 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\enemigo.c
+	<stdlib.h>
+	"Enemigo.h"
+
+1589138111 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\flota.c
+	<stdlib.h>
+	"Flota.h"
+	"Colision.h"
+
+1589195765 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\galax.c
+	"galax.h"
+	"Pantalla.h"
+	"stdio.h"
+	"stdlib.h"
+	<windows.h>
+	<MMsystem.h>
+
+1589195765 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\galax.h
+	"Pantalla.h"
+	"Disparos.h"
+	"Flota.h"
+	"Personaje.h"
+
+1588681855 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\personaje.h
+	"Pantalla.h"
+
+1589138124 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\galaxia.c
+	<stdlib.h>
+	"Galaxia.h"
+	"Colision.h"
+
+1584907574 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\galaxia.h
+	"Astro.h"
+
+1585062251 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\icono.rc
+
+1580842608 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1588681855 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\personaje.c
+	<stdlib.h>
+	"Personaje.h"
+
+1589198352 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\main.c
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<MMsystem.h>
+	"Personaje.h"
+	"Enemigo.h"
+	"Pantalla.h"
+	"Colision.h"
+	"Galaxia.h"
+	"Flota.h"
+	"galax.h"
+	"Disparo.h"
+	"Disparos.h"
+
+1584908178 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\astro.c
+	<stdlib.h>
+	"Astro.h"
+
+1584368207 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\astro.h
+	"Pantalla.h"
+
+1580842612 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\pantalla.h
+	"SDL2/SDL.h"
+
+1589196818 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\colision.c
+	<math.h>
+	"Colision.h"
+
+1589137970 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\colision.h
+
+1586030928 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\disparo.c
+	<stdlib.h>
+	"Disparo.h"
+
+1586030423 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\disparo.h
+	"Pantalla.h"
+
+1589138054 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\disparos.c
+	<stdlib.h>
+	"Disparos.h"
+	"Colision.h"
+
+1589137389 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\disparos.h
+	"Disparo.h"
+	"Flota.h"
+
+1587156273 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\flota.h
+	"Enemigo.h"
+
+1584362441 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\enemigo.h
+	"Pantalla.h"
+
+1584364406 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\enemigo.c
+	<stdlib.h>
+	"Enemigo.h"
+
+1589138111 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\flota.c
+	<stdlib.h>
+	"Flota.h"
+	"Colision.h"
+
+1589195765 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\galax.c
+	"galax.h"
+	"Pantalla.h"
+	"stdio.h"
+	"stdlib.h"
+	<windows.h>
+	<MMsystem.h>
+
+1589195765 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\galax.h
+	"Pantalla.h"
+	"Disparos.h"
+	"Flota.h"
+	"Personaje.h"
+
+1588681855 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\personaje.h
+	"Pantalla.h"
+
+1589138124 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\galaxia.c
+	<stdlib.h>
+	"Galaxia.h"
+	"Colision.h"
+
+1584907574 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\galaxia.h
+	"Astro.h"
+
+1585062251 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\icono.rc
+
+1580842608 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1588681855 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\galax human saviors\personaje.c
+	<stdlib.h>
+	"Personaje.h"
+
+1584908178 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\astro.c
+	<stdlib.h>
+	"Astro.h"
+
+1589536942 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\astro.h
+	"Pantalla.h"
+
+1580842612 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\pantalla.h
+	"SDL2/SDL.h"
+
+1589196818 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\colision.c
+	<math.h>
+	"Colision.h"
+
+1589536892 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\colision.h
+
+1586030928 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\disparo.c
+	<stdlib.h>
+	"Disparo.h"
+
+1589536900 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\disparo.h
+	"Pantalla.h"
+
+1589138054 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\disparos.c
+	<stdlib.h>
+	"Disparos.h"
+	"Colision.h"
+
+1589536907 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\disparos.h
+	"Disparo.h"
+	"Flota.h"
+
+1589536920 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\flota.h
+	"Enemigo.h"
+
+1589536913 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\enemigo.h
+	"Pantalla.h"
+
+1584364406 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\enemigo.c
+	<stdlib.h>
+	"Enemigo.h"
+
+1589138111 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\flota.c
+	<stdlib.h>
+	"Flota.h"
+	"Colision.h"
+
+1589195765 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\galax.c
+	"galax.h"
+	"Pantalla.h"
+	"stdio.h"
+	"stdlib.h"
+	<windows.h>
+	<MMsystem.h>
+
+1589536926 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\galax.h
+	"Pantalla.h"
+	"Disparos.h"
+	"Flota.h"
+	"Personaje.h"
+
+1589536936 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\personaje.h
+	"Pantalla.h"
+
+1589138124 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\galaxia.c
+	<stdlib.h>
+	"Galaxia.h"
+	"Colision.h"
+
+1589536931 c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\galaxia.h
+	"Astro.h"
+
+1585062251 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\icono.rc
+
+1580842608 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1588681855 source:c:\users\pblme\documents\grado en ingeniería informática\1º\(tp) - tecnología de la programación\48850573e\código\galax human saviors\personaje.c
+	<stdlib.h>
+	"Personaje.h"
+
