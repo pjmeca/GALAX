@@ -6,5 +6,5 @@ El juego utiliza la librería [SDL2](SDL2.dll) para reproducir los sonidos y los
 
 ## Ejecución
 
-Para ejecutar el juego, se recomienda descargar el archivo [Release.zip](https://github.com/pjmeca/GALAX/releases/tag/v1.0.0), ya que está preparado con todos los recursos necesarios.
+Para ejecutar el juego se recomienda descargar el archivo [Release.zip](https://github.com/pjmeca/GALAX/releases/tag/v1.0.0), que ya está preparado con todos los recursos necesarios.
 
